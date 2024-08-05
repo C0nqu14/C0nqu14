@@ -30,6 +30,18 @@
 ![NLTK](https://img.shields.io/badge/-NLTK-0277BD?logo=nltk&logoColor=white&style=flat-square)
 ![Google Generative AI](https://img.shields.io/badge/-Google%20Generative%20AI-4285F4?logo=google&logoColor=white&style=flat-square)
 
+### Habilidades
+
+🐍 Python
+☕ JavaScript
+🗄️ SQL
+🐘 PHP
+🌐 HTML
+🎨 CSS
+💻 Bash Shell script
+🎓 C/C++
+🎯 C#
+
 ### Outras Habilidades
 - Integração de chatbots
 - Hcking & Pentest
