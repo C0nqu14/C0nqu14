@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Conquia 👋
 
-![Banner](https://github.com/joaoconquia/joaoconquia/blob/main/banner.png) <!-- Substitua pelo URL da sua imagem -->
+![Banner](https://github.com/C0nqu14/C0nqu14/blob/main/banner.png) <!-- Substitua pelo URL da sua imagem -->
 
 ---
 
