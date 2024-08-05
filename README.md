@@ -25,12 +25,14 @@
 
 ### Ferramentas e Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![NLTK](https://img.shields.io/badge/-NLTK-0277BD?logo=nltk&logoColor=white&style=flat-square)
 ![Google Generative AI](https://img.shields.io/badge/-Google%20Generative%20AI-4285F4?logo=google&logoColor=white&style=flat-square)
 
 ### Outras Habilidades
 - Integração de chatbots
-- Desenvolvimento de videochamadas em JavaScript
+- Hcking & Pentest
 
 ---
 
@@ -41,6 +43,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoconquia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0nqu14&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoconquia&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0nqu14&layout=compact&theme=radical)
